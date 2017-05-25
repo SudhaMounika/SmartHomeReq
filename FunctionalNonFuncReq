@@ -1,0 +1,61 @@
+Requirements verification and validation 
+
+
+
+Key Functional Requirements 
+
+R1	The smart home system allows the user to use mobile often.
+Approved:Yes	
+Reason:By using mobile often, the users can operate easily and it becomes adaptable.
+R2	The smart home system monitors automated lights and fans.	
+Approved: Yes
+Reason:Automated lights and fans provides less power consumption saving money to the user
+R3	The smart home system monitors automated doors and windows	
+Approved:Yes
+Reason:Automated doors and windows provide security to the home when the users of home forget to lock the door.
+R4	The system provides safety security system
+Approved:Yes
+Reason:Using arm security system, controllers, locks, door stations, advanced security equipments and live security camera footage, the users can be more safe and secure.
+R5	The system provides automated gated system	
+Approved:Yes
+Reason: Automated gated system provides additional security by avoiding strangers to enter into the house.
+R6	The system monitors kitchen appliances
+Approved:Yes	
+Reason: Configuring alerts when appliances turn on and off or just remotely controlling them avoids electrical accidents in home.
+R7	The system provides smart refrigerator system	
+Approved:Yes
+Reason:To give food longer life, smart cooling system sense humidity levels so that users can stay healthy.
+R8	The system monitors garbage wastes	
+Approved:Yes	
+Reason:Garbage containers send alerts automatically when they are full using sensor technology so that users can throw the waste when required.
+R9	The system monitors repairs, leakages in daily life	
+Approved:Yes
+Reason:Notifications are sent to the mobile when there are any leakages or repairs inside the home which helps users to repair and update their appliances.
+R10	The system provides automated air conditioning	
+Approved:Yes
+Reason:The users can use their smart phones to automatically adjust the temperature remotely when they are coming home tired after work.
+
+
+Non Functional Requirements
+
+R11	The user requires proper training for using the application.	
+Approved:Yes	
+Reason:As it is completely based on internet usage, the user should know how to operate the system.
+R12	The application supports different kinds of languages
+Approved:Yes	
+Reason:To easily accessible by the users with different culture and languages.
+R13	The system provides parental controls 	
+Approved:Yes	
+Reason:To avoid unauthorized access.
+R14	The cameras and the sensors ensure safety and security.
+Approved:Yes	
+Reason:In case of any robbery, the person can be easily identified.
+R15	The user needs a manual which has instructions regarding operating the house.	
+Approved:Yes
+Reason:The manual should be given to the users for reference in case of any doubts.
+R16	The automatic functionality should be checked regularly for safety.
+Approved:Yes	
+Reason:The sensors should be checked by enabling the auto check functionality.
+			
+			
+.
